@@ -1,25 +1,27 @@
-Bitcoindiamond integration/staging tree
+Bitcoin Diamond integration/staging tree
 ================================
 
-http://www.bitcoindiamond.org
+http://www.bitcoin-diamond.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Bitcoindiamond Developers
+Copyright (c) 2017-2077 Bitcoin Diamond Developers
+Author Luke Ozimski
+#lozimski
 
-What is Bitcoindiamond?
+What is Bitcoin Diamond?
 ----------------
 
-Bitcoindiamond is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+Bitcoin Diamond is a lite and scalable version of Bitcoin using scrypt as a proof-of-work algorithm.
+ - 5 minute block targets
+ - subsidy halves in 315k blocks (~3 years)
+ - ~10.1 million total coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+The rest about blockchain, proof-of-work and mining.
+ - 16 coins per block for initial time. 
+ - xxx blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Bitcoindiamond client sofware, see http://www.bitcoindiamond.org.
+the Bitcoindiamond client sofware, see http://www.bitcoin-diamond.org.
 
 License
 -------
