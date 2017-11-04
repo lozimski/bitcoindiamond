@@ -18,6 +18,7 @@ Bitcoin Diamond is a lite and scalable version of Bitcoin using scrypt as a proo
 
 The rest about blockchain, proof-of-work and mining.
  - 16 coins per block for initial time. 
+ - Blocksize 3MB
  - xxx blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
